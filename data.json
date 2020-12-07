@@ -1,0 +1,30 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Arisha Barron",
+      "accounts": [
+        {
+          "bankName": "sbi",
+          "amount": 2000
+        },
+        {
+          "bankName": "axis",
+          "amount": 3000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Branden Gibson"
+    },
+    {
+      "id": 3,
+      "name": "Rhonda Church"
+    },
+    {
+      "id": 4,
+      "name": "Georgina Hazel"
+    }
+  ]
+}
